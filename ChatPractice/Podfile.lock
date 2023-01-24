@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.6.1)
+  - Realm (10.33.0):
+    - Realm/Headers (= 10.33.0)
+  - Realm/Headers (10.33.0)
+  - RealmSwift (10.33.0):
+    - Realm (= 10.33.0)
+  - Starscream (4.0.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - RealmSwift
+  - Starscream
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Realm
+    - RealmSwift
+    - Starscream
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  Realm: d4f810e161fa2c2c589b9860b6eb09238deacd73
+  RealmSwift: cef9946f09f2333a8f2ac8bac4f8de52fb9f5ac3
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+
+PODFILE CHECKSUM: bf89be8427cef8c04fddfdc58849ea1abb556a88
+
+COCOAPODS: 1.11.3
